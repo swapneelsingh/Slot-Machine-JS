@@ -1,6 +1,6 @@
 # Slot-Machine-JS 🎰
 
-Welcome to **SlotMachineJS**, a simple terminal-based slot machine game implemented in JavaScript. This project is a beginner-level implementation of a slot machine that includes features such as random spins, a betting system, and an interactive user interface that runs in your terminal.
+Welcome to **SlotMachineJS**, a simple terminal-based slot machine game implemented in JavaScript. This project is a beginner-level implementation of a slot machine that includes features such as random spins, a betting system, and an amazing interactive user interface that runs in your terminal.
 
 ## Features ✨
 
